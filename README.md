@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a frontend web developer,
+I aspire to do more with tech.
+I love learning programming languages and I love using them to solve problems.
 
 <!--
 **1CoderNifemi/1CoderNifemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
