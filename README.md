@@ -1,19 +1,18 @@
 ### Hi there 👋
-I am a frontend web developer,
-I aspire to do more with tech.
-I love learning programming languages and I love using them to solve problems.
+I am a software developer.
+I create solutions to problems.
+
+🌱 I’m currently learning react native and mobile application development.
+🔭 I’m currently working on something.
+⚡ Fun fact: I'm always working on something.
 
 <!--
-**1CoderNifemi/1CoderNifemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NifemiCodes/NifemiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
