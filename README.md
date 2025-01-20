@@ -2,6 +2,7 @@
 I am a software developer.
 I create solutions to problems.
 
+-👩‍💻 About to publish my first mobile app on the google Play store🥳
 -🌱 I’m currently learning c++.
 -🔭 I’m currently working on something.
 -⚡ Fun fact: I'm always working on something.
