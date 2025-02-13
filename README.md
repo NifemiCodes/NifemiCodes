@@ -1,11 +1,10 @@
 ### Hi there 👋
 I am a software developer.
-I create solutions to problems.
-&nbsp;
+I create solutions to problems.\n
 
--👩‍💻 About to publish my first mobile app on the google Play store🥳 &nbsp;
--🌱 I’m currently learning Dart & Flutter. &nbsp;
--🔭 I’m currently working on a mobile application. &nbsp;
+-👩‍💻 About to publish my first mobile app on the google Play store🥳\n
+-🌱 I’m currently learning Dart & Flutter.\n
+-🔭 I’m currently working on a mobile application.\n
 -⚡ Fun fact: I'm always working on something.
 
 <!--
